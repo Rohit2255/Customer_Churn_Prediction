@@ -1,6 +1,6 @@
-# 📉 Customer Churn Prediction - Day 4 | 100 Days of Finance Data Science
+# 📉 Customer Churn Prediction - Day 4 | 100 Days of Data Science
 
-This project focuses on predicting **telecom customer churn** using supervised machine learning models. It is part of my `#100DaysOfFinanceDataScience` challenge.
+This project focuses on predicting **telecom customer churn** using supervised machine learning models. It is part of my `#100DaysOfDataScience` challenge.
 
 ## 📦 Dataset
 
